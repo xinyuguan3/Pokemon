@@ -1,0 +1,1191 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <title>Image Hover Effects</title>
+            <link rel="stylesheet" href="itemstyle.css">
+            
+        </head>
+        <body>
+            
+            <div class="container">
+
+                <div class="box" onclick="window.open('click.html');">
+                    <div class="imgBx" >
+                        <div id="a">
+                            
+                        <img src="items/absorb-bulb.png" alt="" >
+                    
+                        </div>
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Bulbasaur</h2>
+                            <p>001</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="imgBx">
+                        <div id="a">
+                        <img src="items/aguav-berry.png" alt="">
+                        </div>
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Ivysaur</h2>
+                            <p>002</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/air-balloon.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Venusaur </h2>
+                            <p>003</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/amulet-coin.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Charmander</h2>
+                            <p>004</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/antidote.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Charmeleon </h2>
+                            <p>005</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="imgBx">
+                        <img  src="items/apicot-berry.png" style="transform:scale(1);" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Charizard</h2>
+                            <p>006</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/armor-fossil.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Squirtle</h2>
+                            <p>007</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/aspear-berry.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Wartortle</h2>
+                            <p>008</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/awakening.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Blastoise</h2>
+                            <p>009</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/babiri-berry.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Caterpie</h2>
+                            <p>010</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/11.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Metapod</h2>
+                            <p>011</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/12.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Butterfree</h2>
+                            <p>012</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/13.png"alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Weedle</h2>
+                            <p>013</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/14.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Kakuna</h2>
+                            <p>014</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/15.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Beedrill</h2>
+                            <p>015</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/16.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Pidgey</h2>
+                            <p>016</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/17.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Pidgeotto</h2>
+                            <p>017</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/18.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Pidgeot</h2>
+                            <p>18</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/19.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Ratata</h2>
+                            <p>019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/20.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Raticate</h2>
+                            <p>020</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/21.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Spearow</h2>
+                            <p>021</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/22.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Fearow</h2>
+                            <p>022</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/23.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Ekans</h2>
+                            <p>023</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/24.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Arbok</h2>
+                            <p>024</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/25.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Pikachu</h2>
+                            <p>025</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/26.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Raichu</h2>
+                            <p>026</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/27.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Sandshrew</h2>
+                            <p>027</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/28.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Sandslash</h2>
+                            <p>028</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/29.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidoran♀</h2>
+                            <p>029</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/30.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorina</h2>
+                            <p>030</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/31.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidoqueen </h2>
+                            <p>031</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/32.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidoran♂</h2>
+                            <p>032</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/34.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidoking</h2>
+                            <p>034</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/35.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/36.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/37.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/38.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/39.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/40.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/41.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/42.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/43.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/44.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/45.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/46.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/47.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/48.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/49.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/50.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/51.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/52.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/53.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/54.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/55.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/56.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/57.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/58.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/59.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/60.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/61.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/62.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/63.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/64.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/65.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/66.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/67.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/68.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/69.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/70.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/71.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/72.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/73.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/74.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/75.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/76.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/77.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/78.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="imgBx">
+                        <img src="items/79.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/80.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/81.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/82.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/83.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/84.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/85.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/86.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/87.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/88.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/89.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/90.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/91.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/92.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/93.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/94.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/95.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/96.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/97.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/98.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/99.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/100.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                </div> <div class="box">
+                    <div class="imgBx">
+                        <img src="items/33.png" alt="">
+                    </div>
+                    <div class="content">
+                        <div>
+                            <h2>Nidorino</h2>
+                            <p>033</p>
+                        </div>
+                    </div>
+                
+            </div>
+            <audio src="music/furret.mp3" autoplay="autoplay" loop="loop"></audio>
+        </body>
+    </html>
