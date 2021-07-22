@@ -1,1 +1,46 @@
-
+*{
+  margin: 0;
+padding: 0; 
+  box-sizing: border-box;
+}
+html,body{
+  display: grid;
+height: 100%;
+  place-items: center;
+  background: #000;
+}
+.icons{
+  display: inline-flex;
+}
+.icons a{
+margin: 0 25px;
+  text-decoration: none;
+  colour: #fff;
+  display block;
+  position: relative
+}
+.icons a .layer{
+ width: 55px;
+  height: 55px;
+  border: 1px solid #fff;
+}
+.icons a .layer span{
+position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  border: 1px solid #fff;
+  border-radius: 5px;
+}
+.icons a .layer span.fab{
+font-size: 30px;
+  line-height: 55px;
+  text-align: center;
+}
+.icons a .text{
+position: absolute;
+  left: 50%
+    bottom: -35px;
+  transform: translatex(-50%);
+}
