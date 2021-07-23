@@ -15,8 +15,8 @@ height: 100%;
 .icons a{
 margin: 0 25px;
   text-decoration: none;
-  colour: #fff;
-  display block;
+  color: #fff;
+  display:block;
   position: relative
 }
 .icons a .layer{
@@ -40,7 +40,7 @@ font-size: 30px;
 }
 .icons a .text{
 position: absolute;
-  left: 50%
+  left: 50%;
     bottom: -35px;
   transform: translatex(-50%);
 }

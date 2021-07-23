@@ -13,6 +13,21 @@ body{
     min-height: 100vh;
     background-color: black;
 }
+.blackbg{
+    width:100%;
+}
+
+h1{
+    color:white;
+    border:10px solid white;
+    border-radius: 15px;
+    text-align: center;
+    height:50vh;
+    position:relative;
+    left:15%;
+    width: 70%;
+
+}
 
 .container{
     position:relative;
