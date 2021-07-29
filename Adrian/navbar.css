@@ -28,7 +28,7 @@ a:active{
 }
 .right{
     width:65%;
-    float: right;
+    position: absolute;
     margin-right: 10%;
     color: white;
 }
