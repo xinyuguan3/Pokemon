@@ -1,7 +1,8 @@
 .left{
-    width: 25%;
+    width: 20%;
     position: fixed;
-    left: 8%;
+    left: 3%;
+    top:20%
 }
 ul li{
     width: 250px;
