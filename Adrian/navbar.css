@@ -1,0 +1,43 @@
+.left{
+    width: 20%;
+    position: fixed;
+    left: 3%;
+    top:20%
+}
+ul li{
+    width: 250px;
+    height: 50px;
+    line-height: 25px;
+    padding: 5px;
+    text-align: center;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid #DCDCDC;
+    border-radius: 20px;
+    font-size: 30px;
+}
+a{
+    text-decoration: none;
+    color: #d6d6d6;
+}
+li:hover{
+    background-color: #F5F5F5;
+}
+a:active{
+    color:#AFEEEE;
+}
+.right{
+    width:65%;
+    position: absolute;
+    margin-right: 10%;
+    color: white;
+}
+.top{
+    width: 80%;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    margin: 0 auto;
+    background-color: #E6E6FA;
+}
